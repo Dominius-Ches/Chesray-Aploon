@@ -8,14 +8,22 @@
 ---
 
 ## 🚀 Summary
-Capacity & Performance specialist with over six years' experience in both workforce and technology-related capacity and performance.
+Penetration Tester with over 3 years of experience conducting security assessments, vulnerability testing, and red-team exercises. Co-founder of Cape Luxe Cleaning and Blue Novem, bringing entrepreneurial drive and a passion for building resilient systems.
+
 
 ---
 
 ## 💼 Experience
 
+### Penetration Tester  
+**Capitec Bank** • Mar 2022 – Present  
+- Conduct comprehensive security assessments of web, mobile, and network infrastructures to identify potential vulnerabilities.  
+- Design and execute both automated and manual testing methodologies—including social engineering and red-team exercises—to simulate real-world attack scenarios.  
+- Collaborate closely with development and operations teams to deliver detailed risk analyses and prioritized remediation plans.  
+- Implement findings-driven improvements that have reduced critical security vulnerabilities by over 60%.  
+
 ### Capacity & Performance Analyst  
-**Capitec Bank** • Oct 2017 – Present  
+**Capitec Bank** • Oct 2017 – Feb 2022  
 - Core focus on technology stability through forecasting and performance testing.  
 - Designed a performance test framework and capacity reporting templates within Solarwinds.
 
