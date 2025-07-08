@@ -1,7 +1,7 @@
 # Chesray Aploon
 
 
-**Penetration Tester | Co-Founder @Cape Luxe Cleaning & Blue Novem | Advocate for Digital Sovereignty & Self-Hosted Solutions**
+**Penetration Tester** | **Co-Founder @Cape Luxe Cleaning & Blue Novem** | **Advocate for Digital Sovereignty & Self-Hosted Solutions**
 
 ✉️ [caploon@gmail.com](mailto:caploon@gmail.com) • 📞 061-496-3521 • 🔗 [LinkedIn](https://www.linkedin.com/in/chesray-aploon-b37a95133)
 
