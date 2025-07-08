@@ -80,11 +80,13 @@ Penetration Tester with over 3 years of experience conducting security assessmen
 
 ## 🎯 Interests
 
-- Indoor Cricket  
-- Cycling  
-- Car Enthusiast  
-- Music  
-- Technology
+- Building and maintaining self-hosted services (Nextcloud, GitLab, n8n)    
+- Contributing to open-source security tools and home-lab automation projects  
+- Property management and real estate investing  
+- Gaming (video games, tabletop RPGs)  
+- Sports: Soccer and indoor cricket  
+- Automotive technology and DIY car projects  
+- Advocating for privacy, digital sovereignty, and emerging cybersecurity trends  
 
 ---
 
