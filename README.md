@@ -1,7 +1,7 @@
 # Chesray Aploon
 
 
-**Capacity & Performance Specialist**
+**Penetration Tester | Co-Founder @Cape Luxe Cleaning & Blue Novem | Advocate for Digital Sovereignty & Self-Hosted Solutions**
 
 ✉️ [caploon@gmail.com](mailto:caploon@gmail.com) • 📞 061-496-3521 • 🔗 [LinkedIn](https://www.linkedin.com/in/chesray-aploon-b37a95133)
 
@@ -55,11 +55,12 @@ Penetration Tester with over 3 years of experience conducting security assessmen
 
 ## 🎓 Education & Certifications
 
-- **ISTQB Foundation**, SASTQB • 2021  
-- **AWS Cloud Foundation**, AWS • 2021  
-- **Certificate in Cloud Data Foundation**  
-- **Cyber Security Vol. 1**, Station X • 2020  
-- **Certificate in Cybersecurity Basics**  
+- **Mobile Application Penetration Testing**, TCM Security • 2023
+- **Android Bug Bounty Hunting**, EC-Council • 2023
+- **AWS Cloud Practitioner**, AWS • 2022
+- **ISTQB Foundation**, SASTQB • 2021   
+- **AWS Cloud Data & Analytics**, AWS • 2021
+- **Cyber Security Vol. 1**, Station X • 2020    
 - **Web Development**, Shaw Academy • 2015  
 - **B.Sc. Information Technology** (1st year completed), CTI Education Group • 2009
 
