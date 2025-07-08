@@ -67,14 +67,14 @@ Penetration Tester with over 3 years of experience conducting security assessmen
 
 ## 🛠 Skills
 
-- Data Analysis  
-- Strategic Thinking  
-- Capacity Planning  
-- Research  
-- Workforce Management  
-- Eye for Detail  
-- Workforce Tools  
-- Technology Monitoring Tools
+- **Security & Testing:** Penetration testing (web, mobile, network), vulnerability assessment, red-team exercises  
+- **Performance & Capacity:** Performance testing, capacity planning & forecasting, capacity reporting templates, SolarWinds expertise  
+- **Workforce Management:** Workforce planning, workload modeling, report design, team mentoring  
+- **Analytics & Research:** Data analytics, strategic thinking, qualitative & quantitative research  
+- **Tools & Frameworks:** Burp Suite, Metasploit, Nmap, Wireshark, Kali Linux, OWASP ZAP, SolarWinds  
+- **DevOps & Self-Hosting:** Docker, Linux server administration, CI/CD pipelines, home-lab/self-hosted services (Nextcloud, GitLab, n8n)  
+- **Cloud & Infrastructure:** AWS (IAM, VPC, EC2), Let’s Encrypt, Nginx, basic Terraform  
+- **Business & Leadership:** Co-founder experience, project management, stakeholder communication, client relationship management 
 
 ---
 
