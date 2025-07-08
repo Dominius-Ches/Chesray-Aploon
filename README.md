@@ -18,9 +18,8 @@ Penetration Tester with over 3 years of experience conducting security assessmen
 ### Penetration Tester  
 **Capitec Bank** • Mar 2022 – Present  
 - Conduct comprehensive security assessments of web, mobile, and network infrastructures to identify potential vulnerabilities.  
-- Design and execute both automated and manual testing methodologies—including social engineering and red-team exercises—to simulate real-world attack scenarios.  
-- Collaborate closely with development and operations teams to deliver detailed risk analyses and prioritized remediation plans.  
-- Implement findings-driven improvements that have reduced critical security vulnerabilities by over 60%.  
+- Design and execute both automated and manual testing methodologies to simulate real-world attack scenarios.  
+- Collaborate closely with development and operations teams to deliver detailed risk analyses and prioritized remediation plans.    
 
 ### Capacity & Performance Analyst  
 **Capitec Bank** • Oct 2017 – Feb 2022  
