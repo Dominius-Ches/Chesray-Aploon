@@ -36,19 +36,10 @@ Penetration Tester with over 3 years of experience conducting security assessmen
 - Focused on client satisfaction and customer service.  
 - Mentored new recruits.
 
-### Financial Advisor  
-**Old Mutual** • Mar 2013 – Jun 2013  
-- Sold policies tailored to client needs.  
-- Maintained client relationships.
-
-### Service Desk Operator  
-**Ackermans** • Aug 2010 – Feb 2013  
-- Logged store maintenance requests and generated supplier orders.  
-- Created and maintained access cards for head office staff.
-
-### Debt Collector  
-**Foschini** • Jun 2010 – Aug 2010  
-- Ensured clients settled their debts.
+### Additional Experience
+- **Financial Advisor**, Old Mutual (Mar–Jun 2013)
+- **Service Desk Operator**, Ackermans (Aug 2010–Feb 2013)
+- **Debt Collector**, Foschini (Jun–Aug 2010)
 
 ---
 
@@ -68,12 +59,12 @@ Penetration Tester with over 3 years of experience conducting security assessmen
 ## 🛠 Skills
 
 - **Security & Testing:** Penetration testing (web, mobile, network), vulnerability assessment, red-team exercises  
-- **Performance & Capacity:** Performance testing, capacity planning & forecasting, capacity reporting templates, SolarWinds expertise  
-- **Workforce Management:** Workforce planning, workload modeling, report design, team mentoring  
-- **Analytics & Research:** Data analytics, strategic thinking, qualitative & quantitative research  
+- **Performance & Capacity:** Performance testing, capacity planning & forecasting, capacity reporting templates, SolarWinds expertise
+- **Analytics & Research:** Data analytics, strategic thinking, qualitative & quantitative research   
 - **Tools & Frameworks:** Burp Suite, Metasploit, Nmap, Wireshark, Kali Linux, OWASP ZAP, SolarWinds  
 - **DevOps & Self-Hosting:** Docker, Linux server administration, CI/CD pipelines, home-lab/self-hosted services (Nextcloud, GitLab, n8n)  
-- **Cloud & Infrastructure:** AWS (IAM, VPC, EC2), Let’s Encrypt, Nginx, basic Terraform  
+- **Cloud & Infrastructure:** AWS (IAM, VPC, EC2), Let’s Encrypt, Nginx, basic Terraform
+- **Workforce Management:** Workforce planning, workload modeling, report design, team mentoring 
 - **Business & Leadership:** Co-founder experience, project management, stakeholder communication, client relationship management 
 
 ---
